@@ -1,0 +1,5 @@
+{
+  "name": "Snake Game",
+  "description": "A simple animated snake game. After winning by eating 5 pieces of food, a special animated message is displayed.",
+  "requestFramePermissions": []
+}
