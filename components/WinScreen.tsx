@@ -23,7 +23,7 @@ const AnimatedWord: React.FC<{ text: string; delay: number }> = ({ text, delay }
 };
 
 const WinScreen: React.FC<WinScreenProps> = ({ onRestart }) => {
-    const words = "nothing can break our bond lalitha, prathik, saaketh".split(' ');
+    const words = "........build together and rise together".split(' ');
 
     return (
         <div className="flex flex-col items-center justify-center p-8 bg-gray-800/50 rounded-lg shadow-2xl animate-fade-in">
